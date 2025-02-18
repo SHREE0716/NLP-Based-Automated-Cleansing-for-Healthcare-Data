@@ -1,0 +1,5 @@
+patient_id,doctor_notes,diagnosis,date_of_visit
+101,"Pt. has diabties, recommend insuln.",Diabetes,2024-02-10
+102,"Patient suffers from Hypertensn.",Hypertension,2024-01-25
+103,"Severe headache, fever, possble dengue.",Dengue,2024-03-05
+104,"John Doe, 29yr, 123-45-6789, flu symptoms.",Flu,2024-02-20
